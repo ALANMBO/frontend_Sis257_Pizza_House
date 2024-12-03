@@ -1,4 +1,5 @@
-<p>desarrollo frontend_pizza_house</p>
+<p>Se creó este repositorio con la finalidad de usarse con Render. El repositorio donde se trabajó es este: <a href="https://github.com/ele-code12/frontend_pizza_house" target="_blank">https://github.com/ele-code12/frontend_pizza_house</a></p>
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
